@@ -1,0 +1,10 @@
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\bin\Debug\CompInstall.exe.config
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\bin\Debug\CompInstall.exe
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\bin\Debug\CompInstall.pdb
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\obj\Debug\CompInstall.csproj.AssemblyReference.cache
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\obj\Debug\CompInstall.MainWindow.resources
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\obj\Debug\CompInstall.Properties.Resources.resources
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\obj\Debug\CompInstall.csproj.GenerateResource.cache
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\obj\Debug\CompInstall.csproj.CoreCompileInputs.cache
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\obj\Debug\CompInstall.exe
+C:\Users\Hexsitt\source\repos\CompInstall\CompInstall\obj\Debug\CompInstall.pdb
