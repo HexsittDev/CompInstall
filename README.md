@@ -53,7 +53,7 @@ Go to the Releases tab and download it, you don't need to install it, just run a
 * Windows 10 or later
 
 ## Preparation
-Download the source zip, extract it, then open the extracted folder, and open and the solution file (**TempClean.sln**) with Visual Studio.
+Download the source zip, extract it, then open the extracted folder, and open and the solution file (**CompInstall.sln**) with Visual Studio.
 
 Before building, make sure the build settings are correct. You can set the build type (debug or release) and the target platform (x86, x64, or AnyCPU) in the project settings.
 
