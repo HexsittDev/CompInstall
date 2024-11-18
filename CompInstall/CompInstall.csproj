@@ -102,6 +102,9 @@
     <EmbeddedResource Include="2022x86.exe" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="7z2408-x64.exe" />
+    <EmbeddedResource Include="7z2408.exe" />
+    <EmbeddedResource Include="oalinst.exe" />
     <Content Include="shell32_271.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
